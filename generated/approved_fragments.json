@@ -1,0 +1,13 @@
+[
+  {
+    "id": "CLEAN_BUS_INTERIOR_V1",
+    "category": "cleaning",
+    "location": "CityA",
+    "keywords": [
+      "clean",
+      "bus",
+      "interior"
+    ],
+    "text": "To clean the bus interior, remove all trash. Wipe surfaces using approved disinfectant. Ensure the floor is dry before service."
+  }
+]

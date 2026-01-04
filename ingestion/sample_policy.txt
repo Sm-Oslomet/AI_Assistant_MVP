@@ -1,0 +1,15 @@
+TITLE: Bus Cleaning Manual
+
+SECTION: Overview
+This document describes internal company procedures and pricing models.
+
+SECTION: Cleaning Procedures
+To clean the bus interior, remove all trash.
+Wipe surfaces using approved disinfectant.
+Ensure the floor is dry before service.
+
+SECTION: Pricing
+Cleaning costs are calculated per vehicle and per hour.
+
+SECTION: Internal Notes
+This section is confidential.
