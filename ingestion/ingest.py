@@ -32,11 +32,11 @@ def main():
                 continue
 
             approved_fragments.append({
-                "id": "CLEAN_BUS_INTERIOR_V1",
+                "id": f"CLEAN_BUS_INTERIOR_{i+1}",
                 "category": "cleaning",
                 "location": "CityA",
                 "keywords": ["clean", "bus", "interior"],
-            "text": fragment
+                "text": fragment
             })
 
 

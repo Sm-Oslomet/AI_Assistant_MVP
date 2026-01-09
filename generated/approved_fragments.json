@@ -1,6 +1,6 @@
 [
   {
-    "id": "CLEAN_BUS_INTERIOR_V1",
+    "id": "CLEAN_BUS_INTERIOR_1",
     "category": "cleaning",
     "location": "CityA",
     "keywords": [
@@ -11,7 +11,7 @@
     "text": "To clean the bus interior, remove all trash"
   },
   {
-    "id": "CLEAN_BUS_INTERIOR_V1",
+    "id": "CLEAN_BUS_INTERIOR_2",
     "category": "cleaning",
     "location": "CityA",
     "keywords": [
@@ -22,7 +22,7 @@
     "text": "Wipe surfaces using approved disinfectant"
   },
   {
-    "id": "CLEAN_BUS_INTERIOR_V1",
+    "id": "CLEAN_BUS_INTERIOR_3",
     "category": "cleaning",
     "location": "CityA",
     "keywords": [
